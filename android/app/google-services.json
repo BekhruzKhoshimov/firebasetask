@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573856483877",
+    "firebase_url": "https://fir-task-9b63f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-task-9b63f",
+    "storage_bucket": "fir-task-9b63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573856483877:android:d987a3961d57d2c7df8dcc",
+        "android_client_info": {
+          "package_name": "com.BEKHRUZ.firebasetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573856483877-utjgal95ilm88i5nlrgualmr5b3gt0e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedMDMtlcxAD4Qxo-mNkTgZP1dT9MB4Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573856483877-utjgal95ilm88i5nlrgualmr5b3gt0e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
